@@ -1,0 +1,21 @@
+"Copper"	96821327
+"Fighter"	96614987
+"Death Will Have to Run"	96614981
+"Quartz"	95250542
+"Lakes of Flame"	73281494
+"Tenacity"	93585767
+"Rebel Yell"	93585560
+"Suit Up"	36581068
+"Run The Track"	93585386
+"Antisleep Vol. 04"	34790224
+"Premonitions"	34874871
+"B-Sides and Other Things I Forgot"	2463777
+"Antisleep Vol. 03"	2338086
+"Blue Stahli"	93581467
+"Blue Stahli (Instrumentals)"	('3264682', 'Instrumentals')
+"Blue Stahli Instrumentals"	3264682
+"Antisleep Vol. 02"	2345260
+"Blue Stahli"	93581467
+"ULTRAnumb Remix Compilation"	2338269
+"Darkeworld Project One"	2338213
+"Antisleep Vol. 01"	2338349

@@ -1,0 +1,561 @@
+"Andy Williams - 100 Hot Hits"	97009650
+"Andy Williams - The Selection"	94907292
+"The Greatest Hits"	92632406
+"Andy Williams - Gold Selection"	92396212
+"Let It Be Me"	88960783
+"The Amazing Andy Williams"	86818746
+"Members Club, Vol. 2"	81077908
+"Members Club, Vol. 1"	81077132
+"The Best of Andy Williams"	85566084
+"Classic Love Songs"	91306000
+"30 Unforgettable Hits"	91305991
+"Christmas Stars"	84631579
+"It's a perfect Christmas"	83570262
+"Night before Christmas"	81750904
+"Christmas Dance"	81751709
+"Time for Gifts"	81750898
+"Christmas Visit"	81751703
+"Do Your Honey Do"	81750915
+"The Best of Christmas Andy Williams"	83049335
+"Star of Bethlehem"	81751679
+"Merry Christmas from China"	81686422
+"It's the Most Wonderful Time of the Year"	83080783
+"Compliments of the Season"	81688294
+"Waiting for Xmas"	81688831
+"Joker Games"	81686879
+"Smile Boy"	81629598
+"Shopping Melodies"	81629603
+"Blue Hair Blues"	81629744
+"Shoe Shuffle"	81629593
+"The last Meal"	81629751
+"Holiday Music"	81629575
+"School Kids"	81545213
+"Power to the People"	81544559
+"Palm Trees"	81544264
+"Honolulu Vibes"	81544285
+"In Love with Andy Williams, Vol. 2"	80454314
+"Rums"	80993244
+"Dragon Punch"	80993975
+"Men World"	81526090
+"Nightlife Evergreen"	80991996
+"In Love with Andy Williams, Vol. 1"	80455100
+"White and Yellow"	80992229
+"Indian Spirit"	81527500
+"Top of the Building"	80582292
+"Driver Songs"	80485858
+"International Earwig"	80440535
+"Dark Melodie"	80440359
+"Two Birds"	80408064
+"A new Friend"	80322022
+"Golden Planet"	80304760
+"One World"	80295133
+"Greatest Hits Live"	86628599
+"A Silver Cup"	80079685
+"140 Hits - Moon River"	80586592
+"Above the Clouds"	79389822
+"Waterfall"	78778458
+"Redwood Tree"	79389468
+"Sunflower"	78800200
+"Ice And Cream"	78601976
+"Range"	78592172
+"Carousel"	79339140
+"The Cadence Singles, a &amp; B Sides"	79484410
+"Street Dance"	78156573
+"Music Store"	78142639
+"Nightingale"	78618249
+"Ice Skating"	78694512
+"Timeless"	78662460
+"Kaleidoscope"	78162721
+"Easter Bells"	75723714
+"Bouse"	75598882
+"Bouse"	75598882
+"Preserve The Good"	75633379
+"Zappy Juice"	75738951
+"Keep In Sight"	75585676
+"Under Paris Skies"	75496813
+"Good Times"	74366881
+"Tropicana"	73670691
+"Summer Breeze"	73670817
+"Stormy Waters"	73670911
+"Magic Winter Sounds"	74645917
+"Light in the starry Night"	73803254
+"Aurora Borealis"	73804027
+"Ballroom Giants: Andy Williams"	74568837
+"Never On A Sunday"	74766251
+"Glittering World"	72804446
+"Winter Wonder Land"	74732273
+"Winter Forest"	74721571
+"The Best of Christmas"	74374794
+"Christmas Beard"	72805425
+"Red Nosed Reindeer"	72809192
+"It Sparkles And Shines"	72766727
+"Singing For Christmas"	73365312
+"Little Angel"	73367704
+"Silver Nights"	72766155
+"Swan Lake In The Winter"	73144709
+"Sheet Music"	72365970
+"Fallen"	72224405
+"In Detail"	71815720
+"In The Fairy Land"	71816622
+"Lonely Sounds"	71991172
+"Look Into The Future"	71991181
+"Moonshine And Music"	71817064
+"Mystic Moments"	71990590
+"Rooftop Storys"	71651744
+"The Best Hits"	71858924
+"Super Top Hits"	71862107
+"My Favorite Record"	71898184
+"The Hawaiian Wedding Song"	72018830
+"Autumn Leaves"	72016083
+"Can't Get Used to Loosing You"	73591296
+"I See Christmas"	36805343
+"All the Best Christmas Songs"	36808325
+"Christmas Classics"	36909017
+"Our Christmas Star"	36805261
+"Glittering Star Of Christmas"	36771115
+"Serene Landscape"	36670679
+"Pure Luck"	36654452
+"May your Easter be Happy"	36624315
+"Lucky Charm"	36591146
+"The 10 best Christmas songs"	36661580
+"Learning"	36571498
+"Music from Heart"	36651029
+"In Growth"	36558473
+"White Cross Collection"	38616398
+"Hunt's-up"	36526184
+"Happy For You"	36518536
+"Happy Family"	36518537
+"Cool Guy"	36514449
+"Cheeky Moments"	36514450
+"Enjoy The Day"	36446359
+"Just - Andy Williams"	36658898
+"Show Pleasure"	36413718
+"Stories On Vinyl"	36350476
+"Strike A New Path"	36280611
+"Surprise Present"	36245704
+"Surround With Friends"	36228500
+"Turn On The Knobs"	36181651
+"The Most Wonderful Time Of The Year"	36049486
+"Through The Area"	36156907
+"Up And Down"	36127449
+"The Real... Andy Williams"	36642875
+"Swing Swing Swing"	36055049
+"Watch Out"	36024373
+"Litter And Glitter"	35992429
+"Hear And Feel"	35960508
+"Litter Of Kittens"	35933845
+"Follow Me"	35929936
+"Happy Sounds"	35898120
+"In The Wild West"	35883784
+"Spring Time Of Love"	35850001
+"Into The Forest"	35827775
+"Gray Heron"	35813441
+"Flowering Time"	35790571
+"Early Bloomers"	35763088
+"Buck The Trend"	35748557
+"Between"	35731569
+"Radio Gold - Andy Williams"	36558268
+"Art Collection"	35720471
+"In That Golden Summer Time"	35705728
+"Wallflower"	35867698
+"Unusual Sounds"	35647985
+"My Heart and I"	36514556
+"Andy Williams Movie Songs"	36518730
+"Mysterious Stories"	35618921
+"Movie Tracks As Time Goes By"	37951468
+"Go Riding"	35618916
+"Expanse"	35618924
+"Enjoy Your Time"	35618903
+"Super Hit Party"	73212569
+"Into The Countryside"	35603740
+"Warm and Willing"	36486731
+"Evergreen Super Hits"	73235086
+"Lets Have A Drink"	36955119
+"Hits To Have A Night Out"	74340037
+"Hit It"	74340045
+"A Summer Place"	36463063
+"Gaudy Colours"	74339012
+"Good Prospects"	35594492
+"Forest Walk"	74582674
+"A Summer Place"	36463063
+"Good Old Memories"	35594491
+"Golden Days"	35594479
+"Explore New"	74582690
+"Tammy"	36357045
+"Game Of Marbles"	35594462
+"Delightful Trip"	74582496
+"Fresh As Dew"	74582795
+"Delicately Built"	74582824
+"Freedom Loving"	74582849
+"Confectioner's"	74584618
+"Evening Sky"	74316360
+"Enjoy The Little Things"	74315587
+"Dragonfly"	74316377
+"Colour Flash"	74315595
+"Collect Seashells"	74316382
+"All the Greatest Songs"	35876619
+"Chill Out"	36970009
+"Build Bridges"	74316363
+"Backseat"	74316395
+"All Too Delicate"	74316630
+"Auto Show"	74316409
+"At High Altitude"	74316631
+"As Light As Straw"	74316408
+"A Bouquet Of Hits"	74316646
+"Best Hit Wonder"	73292585
+"The Music Art of Cinema Movies"	35595283
+"Christmas Bells Are Ringing"	37097358
+"Let It Snow, Let It Snow, Let It Snow"	35600408
+"Retrospective"	73326461
+"Christmas Magic"	74363534
+"Get Together with Andy Williams"	74681149
+"Christmas Needs Love"	73334072
+"Christmas Carol"	73856670
+"Sunday Ride"	73989696
+"Id Like To Hear That Song Again"	37063779
+"Stormy Hours"	73989203
+"Still Life"	73989182
+"Stained Glass"	73989703
+"Spin"	73989695
+"Souvenirs Of Summer"	73989262
+"Silent Places"	73989204
+"Sea Smooth"	73989670
+"Rare Encounter"	73988977
+"Picturesque Landscape"	73988501
+"Path To Green"	73988446
+"Navigator"	73988978
+"Living For The Moment"	73989011
+"Imposingly"	73988490
+"Pop Elite: Best Of Andy Williams"	73766632
+"Twilight Time"	73763583
+"I Believe"	73763582
+"My Happiness"	73733994
+"Dremaville"	73733991
+"Good Morning"	73738706
+"A Summer Place"	36463063
+"Sings the Great American Songbook"	74433045
+"This Spring Feeling"	72996822
+"Get Faster"	72998283
+"The Plan"	73001145
+"Silhouettes"	73003608
+"À La Carte"	73208073
+"Behind"	72924353
+"Truth Matters"	72924689
+"The Wisdom"	72924386
+"Ruminate"	72924722
+"Profoundly Love"	72925655
+"Jazz Up"	72924457
+"How To Deal With"	72924485
+"Dually Attired"	72924503
+"Play Loudly"	72794206
+"Chatty People"	72924879
+"Passenger Coaches"	72595445
+"Exquisit Tastes"	72596629
+"Common Time"	72596644
+"Caribbean Cruise"	72596639
+"Bound To Be a Winner"	72505923
+"Gentleman Tunes"	72402784
+"Meet And Greet On Broadway"	72596668
+"Let's Crack a Bottle"	72402772
+"Blue Hour"	72396371
+"Swingin' In The Rain"	72397133
+"Records Room"	72399970
+"Lean Back And Listen"	72399366
+"Fly High"	72400967
+"It's Always Time For Good Music"	72468360
+"High Class Tunes"	72469930
+"Bottled Up"	72473850
+"Good Old Times"	72476120
+"All Over The World"	72479151
+"Frankie Avalon &amp; Andy Williams"	72928187
+"Jam Session"	72479196
+"Andy Williams - The Rock Legends"	38971014
+"What The Heart Desires"	72755910
+"Splendid Time Together"	72758373
+"Ice Princess"	72759029
+"Cool Beauty"	72495976
+"Beautiful Mood"	72499106
+"Express Yourself"	72567925
+"Frolic Around"	72678101
+"Once Leisure"	72712430
+"Delicious Dishes"	72751168
+"Its Own Way"	72363674
+"Hot Summer Party"	72361781
+"Easy Listening"	74360996
+"Canadian Sunset"	72312453
+"Leopard Lady"	72366948
+"Surf Riding"	72367727
+"Harvest Season"	72369166
+"Andy Williams Sings Steve Allen"	1509748
+"Pop Elite: Best Of Andy Williams"	73766632
+"Tasty"	35860592
+"Sweet Cocktail"	72370664
+"Optical Illusion"	72332472
+"Caps"	35849644
+"Blue Haze"	72372050
+"Andy's Newest Hits"	72191831
+"Spring Caper"	72375679
+"Crooners Corner"	74414818
+"Twilight Time"	73763583
+"I Believe"	73763582
+"Popular Culture"	37724736
+"Always"	35860694
+"15 Great Ballads"	38544612
+"15 Grandes Baladas"	37400415
+"Hello Infinity"	35851110
+"Shine Like Diamonds"	35760155
+"Boundless Glee"	36468181
+"Mary's Little Boy Child"	35914525
+"My Happiness"	73733994
+"Dremaville"	73733991
+"Let It Be Me"	88960783
+"Young Love"	38088381
+"Sings Steve Allen / Under Paris Skies"	74607366
+"Leisure Time"	37699613
+"Picture The Music"	37700536
+"Precious"	37883678
+"Gentlemanly Music"	37725528
+"Sings Rodgers &amp; Hammerstein / Moon River"	74703249
+"The Great American Songbook"	74703067
+"Dresscode: Feel Good"	37724617
+"The Journey Through Music With"	37699572
+"Stars Of Love"	37699571
+"Tonight!"	39380390
+"Pretty Rainbow"	37693136
+"Flowering May"	37724464
+"Balmy Breeze Vol. 12"	37598592
+"House of Bamboo"	73771314
+"Balmy Breeze Vol. 11"	37497334
+"Different"	37701662
+"Balmy Breeze Vol. 10"	37598591
+"Feel Freely"	37707953
+"Hit Wonder: Andy Williams, Vol. 2"	36501145
+"Auditory Arrangement"	37725357
+"Balmy Breeze Vol. 5"	37709681
+"Balmy Breeze Vol. 4"	37701661
+"Hit Wonder: Andy Williams, Vol. 1"	36115331
+"A Delicate Dance"	37704151
+"Balmy Breeze Vol. 3"	37693903
+"Balmy Breeze Vol. 2"	37708034
+"Balmy Breeze Vol. 1"	37706663
+"Cheerful"	35632536
+"Diva‘s Edition"	37706939
+"Skyey Sounds Vol. 10"	35539423
+"Skyey Sounds Vol. 9"	35534123
+"Big City Sounds"	37597766
+"Skyey Sounds Vol. 8"	35534315
+"Around the Clock With"	37598566
+"Skyey Sounds Vol. 7"	35545452
+"Skyey Sounds Vol. 6"	35545092
+"Skyey Sounds Vol. 5"	35545199
+"Enjoy Your Free Time With"	37706940
+"Skyey Sounds Vol. 4"	35539982
+"Skyey Sounds Vol. 3"	35545140
+"Driving Under the Moon"	37598568
+"Skyey Sounds Vol. 2"	35539925
+"Skyey Sounds Vol. 1"	35539720
+"Star Awards"	35598653
+"Spring Feelings"	35621333
+"Afternoon Tunes"	37706916
+"Records For You"	37706910
+"Flowers In Heaven"	35632948
+"Lets play again"	35617976
+"Days of Wine and Roses"	38829525
+"Paris In Love"	35621420
+"Love Time Edition"	37694847
+"The Classic Years, Vol. 3"	39242302
+"Every Friday Vol 11"	37706900
+"Every Friday Vol 10"	37706498
+"Beautiful Venice"	37747739
+"Every Friday Vol 9"	37706497
+"First Snowdrops"	37697601
+"Every Friday Vol 8"	37700266
+"Every Friday Vol 7"	37708704
+"Every Friday Vol 6"	37710831
+"Every Friday Vol 5"	37710829
+"Relax with"	37687118
+"Every Friday Vol 4"	37708703
+"Every Friday Vol 3"	37706899
+"The Wonderful World of Andy Williams"	34900612
+"Every Friday Vol 2"	37711780
+"Every Friday Vol 1"	37707420
+"Ski Sensation"	37700221
+"Diamonds Forever"	37700220
+"Relaxing Collection"	37693780
+"My Old Coffee Music"	37670892
+"The Best of Andy Williams Vol. 2"	39295495
+"The Best of Andy Williams Vol. 1"	37274957
+"Happy New Year 2014"	37662636
+"Can't Get Used to Losing You"	35673143
+"All Right Vol. 11"	37680409
+"All Right Vol. 10"	37939766
+"All Right Vol. 9"	37699254
+"All Right Vol. 8"	37693760
+"All Right Vol. 7"	37699012
+"All Right Vol. 6"	37700213
+"All Right Vol. 5"	37707371
+"Christmas World 50s &amp; 60s Hits Vol. 19"	35668089
+"All Right Vol. 4"	37693758
+"All Right Vol. 3"	37701723
+"All Right Vol. 2"	37497172
+"All Right Vol. 1"	37693757
+"It's a Most Unusual Day"	2885443
+"In the Arms of Love"	36269972
+"White Christmas With Love"	37604615
+"The Silent Christmas Night"	37637204
+"Mysterious"	37939619
+"Swooning and Crooning - Andy Williams"	74946309
+"The Old Christmas Train"	37637203
+"Merry Christmas with Andy Williams"	37509183
+"Silver Shining Christmas Time"	37633625
+"My Wonderful Christmas Time"	37939196
+"Andy Williams 50 Hits"	74084889
+"Andy Williams Greatest Christmas"	38481828
+"Joyful Christmas With Andy Williams"	37650580
+"Happy Christmas Candy"	37638124
+"The Outstanding Andy Williams"	72257129
+"100% Andy Williams, Vol. 2"	39397713
+"100% Andy Williams, Vol. 1"	39362462
+"100% Andy Williams, Vol. 3"	39088675
+"It Doesnt Take Very Long"	39021924
+"All the Way Home, Vol. 2"	38855286
+"Classic Williams, Vol. 2: Andy Williams"	38799209
+"Have You Heard of Andy Williams, Vol. 3"	38641201
+"Have You Heard of Andy Williams, Vol. 2"	38564281
+"Classic Williams, Vol. 6: Lonely Street"	38331747
+"Have You Heard of Andy Williams, Vol. 1"	38330234
+"100% Andy Williams, Vol. 4"	37825298
+"All the Way Home, Vol. 1"	37727652
+"Christmas Sensation With Andy Williams"	37615873
+"Have You Heard of Andy Williams, Vol. 4"	37232515
+"A White Christmas Dream"	37637202
+"Top 50: Andy Williams"	38655466
+"Happy Holiday with Andy Williams"	38807971
+"Andy Williams - Away in a Manger"	38337596
+"Moonriver Tonight"	35856274
+"The Classic Christmas Album"	3417104
+"Movie Songs By Andy Williams"	36431615
+"Butterfly"	38779520
+"So Rare"	37704834
+"Be Mine Tonight"	39556368
+"Baby Doll"	39556120
+"I Love Paris"	39106613
+"A Song of Old Hawaii"	38797985
+"Young Love"	38088381
+"Unchained Melody"	37657009
+"The Genius of Andy Williams"	72260191
+"Andy 100"	39627303
+"Smooth Sounds of Andy Williams, Vol. 1"	39305892
+"Smooth Sounds of Andy Williams, Vol. 2"	38645261
+"At the National Guard Show 5-8"	37802272
+"The Early Years"	75081899
+"The Very Best of Andy Williams, Vol. 2"	39351493
+"The Very Best of Andy Williams, Vol. 1"	39196955
+"The Very Best of Andy Williams, Vol. 5"	38822787
+"The Very Best of Andy Williams, Vol. 4"	38808972
+"The Very Best of Andy Williams, Vol. 3"	37523602
+"Blue Hawaii"	38737551
+"Forever Andy Williams"	36464675
+"Embraceable You"	75208048
+"The Essential Andy Williams"	72228814
+"Stranger on the Shore"	38863562
+"The Very Best: Andy Williams Vol. 4"	38767847
+"The Very Best: Andy Williams Vol. 1"	38689665
+"Danny Boy and Other Songs I Love to Sing"	37585763
+"Some Enchanted Evening"	75292400
+"28 Classics"	38216501
+"Some Enchanted Evening, Vol. 1"	38671201
+"Some Enchanted Evening, Vol. 2"	38504607
+"Andy Williams' Best"	39258098
+"Straight From the Heart"	38779199
+"Straight from My Heart"	39357156
+"Shows from the National Guard 5-8"	39155751
+"My One and Only Love"	39497169
+"Shows from the National Guard 5-8"	39155751
+"Andy Williams' Best - 50 Classic Hits"	81855493
+"Million Seller Songs"	35761543
+"Under Paris Skies 1961"	37574230
+"Xmas With Andy"	84367979
+"Andy Williams: His Early Classics"	38768441
+"Andy Williams - Singing Christmas Songs"	39343969
+"The Early Years: 1954 - 1961"	38251476
+"The Best of Andy Williams Live"	38480808
+"Andy Williams, Straight from My Heart"	38841609
+"Hawaiian Wedding Song"	35609715
+"The Andy Williams Songbook"	38922606
+"Andy Williams: Unchained Melody, Vol. 2"	39427836
+"Andy Williams: Unchained Melody, Vol. 1"	38774046
+"Some Enchanted Evening, Vol. 1"	38671201
+"Two Time Winners"	1509886
+"La Vida Se Va"	79638977
+"Vocal Essentials"	72186416
+"Legends: Andy Williams"	36670139
+"The Debut of Williams"	72197345
+"The American Idol"	38918022
+"Andy Williams. Great American Singers"	38728508
+"Near You, Vol. 1"	39409325
+"Near You, Vol. 2"	37032006
+"Greatest Hits: Andy Williams Vol. 3"	39473610
+"Greatest Hits: Andy Williams Vol. 4"	38967923
+"Greatest Hits: Andy Williams Vol. 1"	38736074
+"Greatest Hits: Andy Williams Vol. 2"	38652050
+"All Time Classics"	37245314
+"Bamboo"	38288210
+"Disco De Oro - Andy Williams"	39559454
+"Summer Love"	38915313
+"Heartbroken"	39095196
+"Unchained Melody"	37657009
+"Climb Ev'ry Mountain"	39094358
+"Song Of The Islands"	38666392
+"An Evening With"	78580762
+"From the Start"	38246133
+"The Very Best Andy Williams Vol.2"	37779018
+"Lips Of Wine"	39307730
+"Getting To Know You"	39173314
+"The Very Best Of Andy Williams"	1509921
+"Under Paris Skies"	75496813
+"Happy Heart: The Best Of Andy Williams"	1509837
+"Teardrops"	38867372
+"Andy Williams Sings Rogers &amp; Hammerstein"	1509777
+"Andy Williams' Greatest Hits"	2571989
+"The Essential Andy Williams"	72228814
+"Baby Doll"	39556120
+"The Very Best Of Andy Williams"	1509921
+"I Don't Remember Ever Growing Up"	39435971
+"Love Songs"	1509798
+"The Andy Williams Christmas Album"	1509923
+"Merry Christmas"	1509770
+"Super Hits"	34529631
+"The Very Best of Andy Williams"	2603001
+"16 Biggest Hits"	2546178
+"Original USA Hit Parade"	84108410
+"Best Of Country"	39695616
+"In the Lounge With.."	2603632
+"Greatest Love Classics"	103793
+"Born Free"	2579296
+"We Need a Little Christmas"	103762
+"Love Story"	1509896
+"16 Most Requested Songs: Encore!"	34508304
+"Personal Christmas Collection"	103767
+"SONGS OF FAITH"	3365709
+"Greatest Hits Volume II"	34533431
+"Nashville"	39696849
+"I Still Believe In Santa Claus"	39698019
+"Andy Williams Moon River Collection"	103780
+"Moon River And Other Great Movie Themes"	103895
+"Close Enough For Love"	37425968
+"Reflections"	103797
+"Christmas Present"	103810
+"The Way We Were"	103815
+"You Lay So Easy on My Mind"	103818
+"Love Theme From &quot;The Godfather&quot;"	103828
+"You've Got a Friend"	89255396
+"The Andy Williams Show"	86391844
+"Raindrops Keep Fallin' On My Head"	86391831
+"Happy Heart"	82040085
+"Honey"	72625420
+"Love, Andy"	36296936
+"Dear Heart"	71675197
+"The Academy Award Winning"	103874
+"Days of Wine and Roses"	38829525
+"To You Sweetheart, Aloha"	103918

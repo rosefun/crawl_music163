@@ -1,0 +1,3 @@
+"Introspection"	2868912
+"30"	39540496
+"Hello Krusty"	35849

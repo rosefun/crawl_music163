@@ -1,0 +1,35 @@
+KMSO：罗马狂欢节	507796727
+KMSO：D大调第一小提琴协奏曲-第一乐章：庄严的快板	507796728
+KMSO：D大调第一小提琴协奏曲-第二乐章：表现力的柔板	507796729
+KMSO：D大调第一小提琴协奏曲-第三乐章：回旋曲-生气蓬勃的快板	507796730
+KMSO：C小调合唱幻想曲	507796731
+01-KMSO-Beethoven-Egmont Overture	506038198
+02-KMSO-Beethoven-Symphony No.1 in C major,Op.21-1	506038199
+03-KMSO-Beethoven-Symphony No.1 in C major,Op.21-2	506038200
+04-KMSO-Beethoven-Symphony No.1 in C major,Op.21-3	506038201
+05-KMSO-Beethoven-Symphony No.1 in C major,Op.21-4	506038202
+06-KMSO-Beethoven-Piano Concerto No.5 in E major-1	506038203
+07-KMSO-Beethoven-Piano Concerto No.5 in E major-2	506038204
+08-KMSO-Beethoven-Piano Concerto No.5 in E major-3	506038205
+01-KMSO-Beethoven-Piano Concerto No.1 in C major-1	506038192
+02-KMSO-Beethoven-Piano Concerto No.1 in C major-2	506038193
+03-KMSO-Beethoven-Piano Concerto No.1 in C major-3	506038194
+05-KMSO-Beethoven-Symphony No.5-1	506038195
+06-KMSO-Beethoven-Symphony No.5-2	506038196
+07-KMSO-Beethoven-Symphony No.5-3&4	506038197
+01-KMSO-Brahms-Violin Concerto-1	506038206
+02-KMSO-Brahms-Violin Concerto-2	506038207
+03-KMSO-Brahms-Violin Concerto-3	506038208
+06-KMSO-Brahms No.1-1	506038209
+07-KMSO-Brahms No.1-2	506038210
+08-KMSO-Brahms No.1-3	506038211
+09-KMSO-Brahms No.1-4	506038212
+01-KSO-Shostakovich-Festival Overture	506038183
+02-KSO-Tchaikovsky-Variations on a Rococo-1	506038184
+03-KSO-Tchaikovsky-Variations on a Rococo-2	506038185
+04-KSO-Tchaikovsky-Variations on a Rococo-3	506038186
+06-KSO-Sarasaty-Zigeunerweisen	506038187
+08-KSO-DVORAK-Symphony No.9-1	506038188
+09-KSO-DVORAK-Symphony No.9-2	506038189
+10-KSO-DVORAK-Symphony No.9-3	506038190
+11-KSO-DVORAK-Symphony No.9-4	506038191

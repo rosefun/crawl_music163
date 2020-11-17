@@ -1,0 +1,45 @@
+"Rust"	97796672
+"Gladiator: 20th Anniversary Edition"	89252573
+"Skipping Stones"	39779161
+"Live In Prague"	36525954
+"Hans Zimmer - The Classics"	35120359
+"Prologue"	35196931
+"Epilogue"	35196930
+"Hans Zimmer Live In Concert"	2298028
+"The Most Inspiring Classical Music"	39376763
+"Time"	2913321
+"Now We Are Free"	3308143
+"Rush"	2668077
+"The Lone Ranger"	2535014
+"The Bible"	2639145
+"Aurora"	146059
+"The Dark Knight Symphony"	146061
+"Madagascar 3: Europe's Most Wanted"	146071
+"Sherlock Holmes: A Game of Shadows"	1671936
+"Call of Duty: Modern Warfare 2"	146160
+"The Dark Knight Remixes EP"	75884311
+"The Pledge"	1671926
+"The British Years"	1671931
+"Good Morning, America!"	1671928
+"The Da Vinci Code"	1671935
+"Thunderbirds"	1671933
+"King Arthur"	146276
+"Beyond Rangoon"	1671917
+"Spirit: Stallion Of The Cimarron"	1671934
+"Black Hawk Down Complete Score"	146314
+"Hannibal"	146355
+"The Thin Red Line"	146388
+"As Good as It Gets"	146391
+"The Peacemaker"	2337955
+"Smilla's Sense of Snow"	146399
+"Broken Arrow"	146413
+"Nine Months"	146426
+"Crimson Tide"	146436
+"Younger &amp; Younger"	146443
+"The Lion King"	501577
+"Point of No Return"	146451
+"The House of the Spirits"	146454
+"K2"	146465
+"Regarding Henry"	146477
+"Backdraft"	1671924
+"Paperhouse"	146505

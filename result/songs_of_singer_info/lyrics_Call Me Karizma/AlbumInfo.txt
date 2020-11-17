@@ -1,0 +1,23 @@
+"Nails"	95259757
+"Petrified"	93695493
+"Zodiac"	89656337
+"Float"	86708736
+"Quarantine With Me"	86856252
+"We're Just Kids"	82855119
+"Hello My Loneliness"	80749024
+"Bleach"	81077407
+"The Gloomy Tapes, Vol. 2"	80596047
+"Rebels"	79621649
+"Recycled Youth"	79132740
+"Serotonin"	74571746
+"God Damnit"	74321946
+"Life of the Party"	71748954
+"Johnny"	88924949
+"Rockstar"	93794143
+"God (Damnit)"	('74321946', 'Damnit')
+"Frank Ocean"	80795847
+"Leave Me Alone.Sad"	35422049
+"Bad"	35323142
+"Emo"	35314158
+"If I Had a Heart"	35314155
+"Uninvited"	34678448

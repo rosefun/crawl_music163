@@ -1,0 +1,27 @@
+"Back To My Bed"	95424787
+"Fire"	94165591
+"Together"	92847879
+"My House"	91690436
+"Numb"	87753382
+"Numb"	87753382
+"Something About You"	80821358
+"How Do You"	79759561
+"Old Friend"	74583281
+"Capricorn"	72198915
+"Sleepwalking"	38842557
+"Woman Remixes"	36659470
+"Talking"	36304164
+"Good Times"	38409179
+"Woman (Remixes)"	('36659470', 'Remixes')
+"Woman"	38406726
+"Cola"	35634153
+"Difficult to Love"	35338808
+"Difficult to Love"	35338808
+"First Time"	35338809
+"First Time"	35338809
+"Sorry"	35338810
+"Closer"	34874605
+"How Many Times"	35338811
+"Travel Slow"	71861443
+"Be There Soon"	3271359
+"Simmer Down"	35338812

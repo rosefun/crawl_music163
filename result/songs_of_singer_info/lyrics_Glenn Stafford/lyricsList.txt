@@ -1,0 +1,53 @@
+Main Theme	32897967
+Ambient 1	32897968
+Ambient 2	32897969
+Tristram	32897970
+Demon Hunter	32897971
+Diablo 1	32897972
+Diablo 2	32897973
+Adria	32897974
+Urzael	32897975
+Skycrown	32897976
+Wortham 1	32897977
+Wortham 2	32897979
+Wortham 3	32897981
+Reaper of Souls	32897982
+Treasure Goblin	32897984
+Terran Four	1336862306
+Zerg Four	1336855927
+Protoss Four	1336862307
+Dark Covenant	5052063
+Dreadlords' Plight	5052064
+Return of the Ancients	5052065
+Legacy of Flame	5052066
+Arcane Echoes	5052505
+Arrival at Kalimdor	5052506
+Awakening	5052507
+Blackrock & Roll	5052508
+Blight	5052509
+Bloodlust	5052510
+Carrion Waves	5052511
+Cinematic Suite	5052512
+Doomhammer's Legacy	5052513
+Frostmourne	5052514
+Lordaeron Fall	5052515
+Reign Of Chaos	5052516
+Rise of the Ancients	5052517
+Temporary Alliances	5052518
+The Calm	5052519
+Human BGM 1	1418448
+Human BGM 2	1418452
+Human BGM 3	1418455
+Human BGM 4	1418458
+Human BGM 5	1418461
+Human Briefing	1418464
+Human Victory	1418467
+Human Defeat	1418470
+Orc BGM 1	1418473
+Orc BGM 2	1418476
+Orc BGM 3	1418480
+Orc BGM 4	1418484
+Orc BGM 5	1418488
+Orc Briefing	1418492
+Orc Victory	1418496
+Orc Defeat	1418501

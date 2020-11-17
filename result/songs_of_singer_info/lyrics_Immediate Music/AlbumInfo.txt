@@ -1,0 +1,180 @@
+"Champion"	97241184
+"The Tides"	97240109
+"Redemption"	97240081
+"The Hive"	80710739
+"One Will Rise"	79871830
+"Orbit"	75798879
+"On the Burden of Being"	75774408
+"Dream Worlds"	75029323
+"Carnage"	78491269
+"Ashes"	73752982
+"Unique Organic Underscores"	73753838
+"Black Room"	73749491
+"The Uninvited"	73748879
+"Existence"	35722936
+"Lumina"	34985545
+"Fate of Gods"	3233174
+"Forgotten Dreams"	72785585
+"Adrenalized"	72786545
+"Land of Freedom"	72785580
+"Martyr"	72785578
+"The Cost of Courage"	72786205
+"Coming of Age"	72785261
+"Paths of Glory"	72785260
+"Real Bad Attitude"	72786187
+"Rip It!"	72785253
+"Lucid Dreaming"	72785245
+"Life Cycles"	72786178
+"Broken Dreams, Vol. 1"	72785239
+"The Void"	72786174
+"Broken Dreams, Vol. 2"	72786171
+"Beauty of the Fall"	72785935
+"To Places Never Imagined"	72784929
+"Age of Discovery"	72785925
+"State of Grace"	72785926
+"Dark Side of Power"	72784922
+"Dark Hero: Uprising"	72785921
+"The Summoning of Heroes"	72784918
+"Dark Hero: Retribution"	72784765
+"Themes for Orchestra &amp; Choir 5"	72785733
+"Encounters"	72784759
+"Revolt"	72785728
+"Burning Drums: Freeform Jazz &amp; Swing"	72785717
+"Wonder"	72785718
+"Burning Drums: Drums &amp; Drones"	72785715
+"Dark Patriotic Covers"	72785712
+"Teenage Zeros"	72627682
+"Dare to Dream"	72626139
+"Flights of Fancy"	72625396
+"Feel the Magic"	72625393
+"Wandering Hearts"	72625391
+"Through the Looking Glass"	72625387
+"Amnesia"	72624840
+"Dangerous Affairs"	72623993
+"Risk Factor"	72624831
+"Hidden Crimes"	72624830
+"Shock Corridor"	72624827
+"It's Not Human"	72623984
+"Cold Space"	72624823
+"An Improbable Pair"	72624822
+"Joyride"	72624820
+"Subversive"	72623969
+"Bungled"	72623968
+"Fathead"	72624814
+"Fuhgeddabout It!"	72624811
+"Grindhouse Serenade"	72621808
+"Alternative 90s Radio"	72621802
+"Tough Love"	72621573
+"Whaz Gone On"	72621571
+"Naked Prey"	72621513
+"Blades of Revolution"	72621506
+"Hell Fire Drums"	72621708
+"Decimator"	72621501
+"Light of Day"	72621693
+"Code Red"	72621486
+"Critical Alert"	72621483
+"Sparks"	72610425
+"Momentum"	72611191
+"A Royal Fiasco"	72610421
+"Jagged Edge"	72610419
+"Status Fear Time"	72611189
+"Amethyst Skies"	72610416
+"Salvation Day"	72611188
+"The Rise of Machines"	72610408
+"Decimation"	72610407
+"Fury"	72610399
+"Frenzy"	72610401
+"Quarantine"	72611166
+"Transgressor"	72610396
+"Violations"	72611160
+"Stranger Dreams"	72610391
+"Decompression, Vol. 1"	72611154
+"Sublunar"	72610387
+"Subsonic"	72611149
+"Decompression, Vol. 2"	72610371
+"Night Terrors"	72595468
+"Magical Inventions"	72595450
+"The End of Days"	72595660
+"Global Crisis"	72595656
+"Brave New Worlds"	72595651
+"Armies of Steel"	72582788
+"Rise of the Chosen"	72582708
+"With an Iron Fist"	72582684
+"Journey to the Front"	72581614
+"Subliminal"	72581528
+"Down the Rabbit Hole"	72581362
+"Blasphemy"	72581959
+"Omega, Vol. 2"	72570928
+"Omega, Vol. 3"	72570915
+"Cypher"	72570908
+"Memories"	72570585
+"Exosphere, Vol. 2"	72570581
+"Exosphere"	72570579
+"Ritual"	72569165
+"Ravagers"	72569160
+"Phosphorescent"	72569891
+"Terror Storm"	72569889
+"Hour At Hand"	72569154
+"Universe Number 7"	72569143
+"Final Escape"	72569141
+"Wolf Moon Powwow"	78470026
+"Resonator"	78470947
+"Deception"	78468318
+"High Jinks"	78469170
+"Overdrive"	78366099
+"Zero Hour"	78364694
+"Counterplot"	78363202
+"The Good Kill"	78363199
+"Army of Justice"	78360913
+"Betrayal"	78355170
+"Full Throttle"	78355171
+"The Panicked Room"	78354620
+"Parallel World"	78354619
+"Livin' Large"	78353452
+"The Asylum"	78353449
+"Final Omen"	78352616
+"Youthful Romance"	78353040
+"School's Out"	78352190
+"Brand New Feeling"	78352189
+"Two for Trouble"	78352188
+"Edge of Tomorrow"	78352650
+"Road Trippin'"	78352639
+"A World of Imagination"	78342963
+"Subversion"	78341175
+"Omega"	78341917
+"All Aboard to Bedlam"	78331509
+"Dissolve In Stars"	78331503
+"Hyperion"	73776378
+"Trailer Hits"	34751922
+"Omega2"	34897032
+"Swords &amp; Thrones"	3451941
+"Futbol Is Epic!"	34898898
+"Cyberian"	3451291
+"March On"	34898899
+"Gates of Valhalla"	3233171
+"Fields of Glory"	3233169
+"Orchestral soundtrack"	3394823
+"Trailerhead: Nu Epiq"	2860213
+"The Demon Within"	35022470
+"Themes For Orchestra and Choir 4"	2640422
+"Trailerhead: Triumph"	2588404
+"Epic Olympic Dreams"	1683496
+"Quantum"	3211850
+"Epic Choral Trailer"	2603658
+"Broken Dreams"	2578418
+"Trailerhead:Saga"	149666
+"Themes for Orchestra and Choir 3"	149676
+"Trailerhead"	149694
+"Epic #2"	149751
+"Comedy #2"	149766
+"Epic #3"	149759
+"Comedy #1"	149722
+"Epic #1"	149741
+"Horror/Sci-Fi #1"	149705
+"Trinity and Beyond"	149699
+"Themes for Orchestra and Choir 1"	149799
+"Action &amp; Drama #1"	149821
+"Action &amp; Drama #2"	149829
+"Action &amp; Drama #4"	149843
+"Action &amp; Drama 3"	2575101
+"Action &amp; Drama 3"	2575101

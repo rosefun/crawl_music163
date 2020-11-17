@@ -1,0 +1,42 @@
+"Perosna"	96009877
+"Funny Love"	92654494
+"Vortex"	85725059
+"Brave"	83813106
+"Mad"	82649000
+"Free"	81918231
+"Promenade"	75868837
+"Gambatte"	75582766
+"Happy New Year"	75006172
+"Sweetful"	74641729
+"Party"	74217715
+"Ikigai"	73761003
+"Cute Festival"	73485984
+"Love Trip"	73296423
+"Level Up"	72452522
+"Sand Castle"	71905107
+"Melodic Stories"	72106115
+"Dreamland"	72067057
+"JUMP"	71980354
+"Nico Nico Nii"	39684522
+"Tutturuu"	39523782
+"Lets Go"	38208136
+"Omni"	38226059
+"Lullaby"	39657250
+"Happy"	34938057
+"Good Feelings"	39620543
+"My World"	37179227
+"Energy"	36583120
+"Blurred Vision"	36583117
+"Taste Of The Sun"	39524025
+"Taste of the Sun"	39060793
+"Machine"	35456536
+"Summer Fantasy"	39620321
+"Sweet Dreams"	35194214
+"Fantastic World"	34944170
+"Friendship"	34938058
+"Summer Time"	34942012
+"Courage"	34939072
+"Destiny"	34939073
+"Power"	34938061
+"Passive"	34938060
+"Lighten"	34938059

@@ -1,0 +1,7 @@
+"Giant"	75115889
+"Skin"	35142431
+"Human"	34784269
+"Healed"	34685028
+"Disfigured - EP"	3217255
+"Wolves"	3317568
+"Bluestown"	72105433

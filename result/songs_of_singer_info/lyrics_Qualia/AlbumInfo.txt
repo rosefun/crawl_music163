@@ -1,0 +1,40 @@
+"Cvlt Fiction"	95336216
+"Space Age"	94484281
+"Nothing"	94914249
+"Forever"	90156394
+"In Perpetuum"	91075627
+"Elements"	91666693
+"Colors"	91112235
+"Cast a Light"	96327760
+"Anagrama"	83095153
+"Abaral"	82781545
+"Electron"	90611038
+"Anagrama"	83095153
+"Science"	90541570
+"Techno Logy"	90338862
+"Fields"	90224872
+"Transmission"	90139951
+"Stream"	90139929
+"Computer"	90074843
+"Nature"	89897309
+"Expect That"	89897297
+"Lady Luck"	75872381
+"Paps ¡Shot!"	73506385
+"Hopeless Optimism"	85236255
+"Cutting Edge"	88921312
+"Cheerful Pessimism"	83716366
+"In the Heart of a Dying Machine"	94711285
+"Triptych"	94712065
+"Seiche"	94712070
+"Wonderland"	36295264
+"Melancholia"	94711317
+"This Is the Color of My Dreams"	94711322
+"Vignettes"	2778708
+"Ecliptic"	2735688
+"Everything Is Going To Be Fine"	2664717
+"Beginnings"	96329850
+"On Wings of Sleep"	96327789
+"Vert"	96327741
+"Spiral Dynamics EP"	75416748
+"Songs For Longing"	188676
+"For All The People You Know"	94712042

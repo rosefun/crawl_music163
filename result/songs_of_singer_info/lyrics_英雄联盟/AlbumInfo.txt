@@ -1,0 +1,212 @@
+"ALL OUT"	98052575
+"2020英雄联盟音乐穿越之旅"	97767782
+"所向无前 - 2020全球总决赛同名应援曲"	96676044
+"Samira,the Desert Rose"	95843641
+"PSYOPS"	95499159
+"2020全球总决赛主题交响乐"	95391048
+"THE BADDEST"	94610578
+"Fight of Your Life"	94506023
+"Yone,the Unforgotten"	93855758
+"乘风归 动画原声"	93559147
+"Lillia,the Bashful Bloom"	93399455
+"Volibear,the Relentless Storm"	90603931
+"Fiddlesticks,the Ancient Fear"	86528155
+"Sett,the Boss"	85021165
+"Warriors 战士（英雄联盟2020赛季宣传曲）"	90364176
+"GIANTS"	83219267
+"Senna,the Redeemer"	83104221
+"Phoenix"	82295861
+"World Championship 2019 Orchestral Theme"	81849377
+"Star Guardian 2019"	81849376
+"Demacia Vice - Spawn-in"	80914559
+"Pantheon,the Unbreakable Spear"	80735770
+"PROJECT 2019"	80735754
+"Arcade 2019：ULTRACOMBO"	80113347
+"Dark Cosmic Jhin"	79828950
+"Qiyana,Empress of the Elements"	79828946
+"Mordekaiser,The Iron Revenant"	79828942
+"Mid Season Trails 2019"	79829845
+"Yuumi,the Magical Cat"	78941244
+"Galaxy Slayer Zed"	78613806
+"Bring Home the Glory"	78608718
+"Cats VS Dogs"	78230846
+"Lunar Revel 2019"	75394943
+"Sylas,the Unshackled"	75393979
+"Season 2019"	75393976
+"Awaken"	75311647
+"Snowdown 2018"	74880887
+"Neeko,the Curious Chameleon"	74266408
+"SOUL"	74561521
+"Eclipse Leona"	74537880
+"Raise Up The Lights"	74266963
+"POP/STARS"	74149887
+"Eyes on Worlds Theme 2018"	74157638
+"World Championship 2018"	74030635
+"RISE"	73471912
+"Odyssey"	72798058
+"Nexus Blitz"	72797883
+"High Noon Lucian"	72796776
+"Nunu and Willump,the Boy and his Yeti"	72709924
+"It's Me and You"	72701943
+"Pool Party 2018"	72383653
+"Akali,The Rogue Assassin"	72299850
+"Dark Star Cho'Gath"	72302812
+"Rift Rivals 2018"	71684111
+"God-King Garen"	72301626
+"God-King Darius"	72300633
+"Aatrox,World Ender"	72071504
+"Pyke,the Bloodharbor Ripper"	72302628
+"2018LPL春季赛决赛主题曲"	38534216
+"2018 Mid-Season Invitational Theme"	38522323
+"Clash 2018"	74157733
+"Irelia,the Blade Dancer"	72302813
+"Gun Goddess Miss Fortune"	72298618
+"Kai'Sa,Daughter of the Void"	72300634
+"Swain,The Noxian Grand General"	72300844
+"Eyes on Theme 2018"	74266735
+"Lunar Revel 2018"	72383718
+"Annie: Origins"	72709925
+"The Climb"	78227520
+"Season 2018"	78227584
+"《英雄联盟》游戏模式主题曲合辑"	37146184
+"《英雄联盟》赛事主题曲合辑"	37154046
+"《英雄联盟》皮肤主题曲合辑"	37154016
+"《英雄联盟》英雄主题曲合辑"	37018933
+"Zoe,the aspect of twilight"	37013172
+"As We Fall"	75816457
+"Snowdown 2017"	75816453
+"PROJECT: Hunters"	72298621
+"PROJECT Hunters"	36869645
+"Eyes on Worlds Theme 2017"	78228745
+"Super Galaxy 2017"	72707767
+"Evelynn, the Taste of Their Pain"	72382650
+"Fates Fall -希望の陰-"	74268954
+"《绽火·狂澜》"	36505347
+"World Championship 2017"	74063672
+"Forge Your Path"	78232204
+"Legends Never Die"	75816481
+"Star Guardian 2017"	75816760
+"Ornn, the Fire Beneath the Mountain"	72302023
+"Honor Theme"	74150751
+"Arcade 2017"	72709658
+"Omega Squad 2017"	72385621
+"Urgot, the Dreadnought"	72383647
+"Darkin Kayn, Rhaast"	72301025
+"Legendary Versus：Yasuo vs Riven"	72707666
+"Pulsefire Caitlyn"	72382633
+"英雄联盟MSI精选歌曲"	35504379
+"英雄联盟有声故事"	35502021
+"英雄联盟官方音乐"	35496120
+"Dark Star 2017"	72383806
+"2017 Mid-Season Invitational Theme"	38522322
+"Xayah &amp; Rakan,the Charmer &amp; the Rebel"	72383645
+"Eyes on MSI Theme 2017"	78228732
+"God Fist Lee Sin"	72383776
+"Galio,the Colossus"	72385620
+"Dragonslayer Xin Zhao"	72706713
+"Blood Moon Diana"	72709672
+"Warwick,the Uncaged Wrath of Zaun"	72301031
+"Lunar Revel 2017"	72709891
+"Season 2017"	78228584
+"Snowdown 2016"	74265741
+"Camille,the Steel Shadow"	35052064
+"Elementalist Lux - The Light Within"	35051076
+"Elementalist Lux"	35052061
+"Devil Teemo Music"	74151733
+"Ivern,the Green Father"	72382805
+"Burning Bright"	34908055
+"World Championship 2016"	74063671
+"Yorick, the Shepherd of Souls"	34881153
+"Arcade Ahri"	34861868
+"Kled, the Cantankerous Cavalier"	34840268
+"PROJECT: Ashe"	34817790
+"Ryze, the Rune Mage"	34780357
+"Block: Uplifting"	35004206
+"Darkstar Thresh"	34750095
+"2016 Mid-Season Invitational"	34721045
+"Taliyah, the Stoneweaver"	34701893
+"Mid-Season Invitational"	34701892
+"2016 Mid-Season Invitational Theme"	38534219
+"You Will Remember"	34685935
+"Taric, the Shield of Valoran"	34682081
+"Mecha Zero Sion"	34611624
+"April fools 2016"	34589847
+"Bilgewater"	34767543
+"Aurelion Sol,The Star Forger"	34588302
+"Lunar Revel 2016"	34478062
+"Jhin, the Virtuoso"	34477060
+"Warsongs"	34429106
+"Jhin：Mind of the Virtuoso"	72707940
+"Season 2016"	34444031
+"Snowdown 2015"	3427829
+"Poppy, Keeper of the Hammer"	3428674
+"Tristana Dragontrainer"	3428333
+"Illaoi, the Kraken Priestess"	3414482
+"Zombie Slayer"	3389101
+"Kindred, the eternal hunters"	3410506
+"All Stars 2015"	75816496
+"Worlds Collide"	3316134
+"PROJECT: Yi"	3414484
+"Bit Rush"	3279807
+"Gangplank,the Saltwater Scourge"	72706659
+"Captain Fortune"	72709666
+"Captain Gangplank"	72300080
+"Tahm Kench,the River King"	72385804
+"the Boy Who Shattered Time"	3203020
+"Omega Squad Teemo"	72709671
+"Welcome to Planet Urf"	3117175
+"Bard,the Wandering Caretaker"	72709929
+"Season 5 - Theme"	78228588
+"DJ Sona"	3109634
+"Lunar Revel 2015"	3263340
+"The Music Of League Of Legends Volume 1"	3098785
+"Snowdown 2014"	72706928
+"Rek'Sai,the Void Burrower"	72707760
+"Kalista, the Spear of Vengeance"	72701768
+"Dunkmaster Darius"	72701654
+"2014 World Championship"	34702599
+"Gnar,the Missing Link"	72709758
+"A New Dawn"	72709931
+"Pool Party 2013"	34768546
+"FUTBOL"	74268952
+"Smite and Ignite"	2891046
+"Vel'Koz,the Eye of the Void"	72707705
+"LCU Heimerdinger"	72706708
+"Lunar Revel 2014"	72701813
+"Yasuo,the Unforgiven"	72701773
+"Infernal Nasus"	72706661
+"Get Jinxed"	2702011
+"Forecast Janna"	72706711
+"Season 3 World Championship Theme"	34675065
+"Surprise Party Fiddlesticks"	74149739
+"Lucian,the Purifier"	34525034
+"Spirit Guard Udyr"	72707669
+"Thresh"	34768575
+"Aatrox,the Darkin Blade - Classic Login"	74157673
+"Zac, the Secret Weapon"	72709809
+"Aether Wing Kayle"	72706660
+"Eternum Nocturne"	72701691
+"Here Comes Vi"	74149752
+"The Throw Down"	35022405
+"Dark Candy Fiddlesticks"	74157720
+"Zed,the Master of Shadows"	72701906
+"Elise,the Spider Queen"	72709764
+"Kha'Zix, the Voidreaver"	72707764
+"Battlecast Prime Cho'Gath"	72706709
+"Syndra,the Dark Sovereign"	72709892
+"Underworld Galio"	72707808
+"Bloodlord Vladimir"	72701694
+"Rengar,the Pridestalker"	72709760
+"Jayce,the Defender of Tomorrow"	72707766
+"Zyra,the Rise of Thorns"	72707904
+"Pulsefire Ezreal"	72709896
+"Draven,the Glorious Executioner"	72707703
+"Darius,the Hand of Noxus"	74157671
+"Varus,the Arrow of Retribution"	72701905
+"Hecarim,the Shadow of War"	73470918
+"Lulu,the Fae Sorceress"	72709897
+"Lunar Revel 2012"	72701812
+"Snowdown 2011"	74149754
+"Haunting Nocturne"	74149737
+"Nocturne,the Eternal Nightmare"	72707902
+"Snowdown 2010"	74151729
